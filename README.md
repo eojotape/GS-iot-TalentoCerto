@@ -92,7 +92,7 @@ Para expor o servidor local (Node-RED) para a internet (Wokwi/ESP32), utilizamos
 ### Passo 1: Node-RED
 1.  Inicie o Node-RED no terminal: `node-red`.
 2.  Acesse `http://localhost:1880`.
-3.  Importe o arquivo `flows.json` (disponível neste repositório).
+3.  Importe o arquivo `flows.json`
 4.  Clique em **Deploy**.
 
 ### Passo 2: Criar o Túnel
