@@ -68,11 +68,11 @@ Para expor o servidor local (Node-RED) para a internet (Wokwi/ESP32), utilizamos
 ## 📸 Screenshots
 
 ### Circuito (Simulação Wokwi)
-![Circuito Wokwi](./caminho-para-imagem-do-circuito.png)
+![Circuito Wokwi](./Capturas de tela/Captura de tela circuito.png)
 *(Substitua esta linha por um print do seu circuito)*
 
 ### Dashboard (Node-RED)
-![Dashboard](./caminho-para-imagem-do-dashboard.png)
+![Dashboard](./Capturas de tela/Captura de tela Dashboard.jpeg)
 *(Substitua esta linha por um print dos seus gráficos)*
 
 ## ⚙️ Como Rodar o Projeto
