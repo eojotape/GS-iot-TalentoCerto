@@ -78,7 +78,8 @@ Para expor o servidor local (Node-RED) para a internet (Wokwi/ESP32), utilizamos
 
 
 ### Dashboard (Node-RED)
-[Captura de tela Dashboard](https://github.com/user-attachments/assets/9ec31b32-ec97-44cc-a839-c35849087ccf)
+
+![Captura de tela Dashboard](https://github.com/user-attachments/assets/ff294929-0efa-48d7-a89a-3cdd00a2a2c5)
 
 
 ## ⚙️ Como Rodar o Projeto
