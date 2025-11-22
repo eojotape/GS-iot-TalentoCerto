@@ -5,6 +5,12 @@
 ![Status do Projeto](https://img.shields.io/badge/Status-Finalizado-green)
 ![Tech](https://img.shields.io/badge/Tech-ESP32%20|%20NodeRED%20|%20IoT-blue)
 
+
+## 🫂Integrantes do grupo 
+- Nome: Pedro Augusto Carneiro Barone Bomfim - RM: 99781
+- Nome: João Pedro de Albuquerque Oliveira - RM: 551579
+- Nome: Matheus Augusto Santos Rego - RM:551466
+
 ## 📺 Demonstração do Projeto
 
 Confira o funcionamento do TalentoCerto na prática, com a explicação do circuito e do dashboard:
