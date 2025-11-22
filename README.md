@@ -9,7 +9,7 @@
 
 Confira o funcionamento do TalentoCerto na prática, com a explicação do circuito e do dashboard:
 
-[![Assista ao Vídeo](https://img.youtube.com/vi/ID_DO_SEU_VIDEO_AQUI/maxresdefault.jpg)](https://youtu.be/ID_DO_SEU_VIDEO_AQUI)
+[![Assista ao Vídeo](https://img.youtube.com/vi/4EoranU_Vq4/maxresdefault.jpg)](https://youtu.be/4EoranU_Vq4)
 
 *(Clique na imagem acima para assistir ao vídeo)*
 
